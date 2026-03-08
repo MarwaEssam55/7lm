@@ -12,5 +12,5 @@ Because motherhood begins with you, the app and website were  created to care fo
 Team members: Marwa Essam: team leader & ux designer / 
 Marwa Magdy: ux designer /
 Sherine Morsy: ux designer /
-Yara Amer: ux designer 
+Yara Amer: ux designer   
           Fig jam link : https://www.figma.com/board/H11eDELoO1OnhYCKY8VTJO/project-%D8%AD%D9%8F%D9%84%D9%92%D9%85?node-id=0-1&t=50Il1FFg5LdMaw1n-1
