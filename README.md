@@ -18,7 +18,7 @@ Because motherhood begins with you, the app and website were  created to care fo
 ---
 
 ##  Instructor
-**[Eman Abd el Latif]**   
+**[Eman AbdelLatif]**   
 fig jam link : https://www.figma.com/board/H11eDELoO1OnhYCKY8VTJO/project-%D8%AD%D9%8F%D9%84%D9%92%D9%85?t=YWJx7QUTv4yHAaah-6
   
          
