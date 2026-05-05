@@ -10,15 +10,16 @@ Your daily companion on the journey of motherhood… step by step 🤍  A smar
 It helps you easily and clearly track everything related to your child, with simplified content that explains what’s normal at every stage of development at the right time and in a calm, comforting way.
 Because motherhood begins with you, the app and website were  created to care for you as much as it cares for your child, offering daily support and a constant sense of reassurance, so you never feel alone.  You always have a companion who understands you and stands by your side through every stage of motherhood. 🤍 
 ##  Team Members
-- **[Marwa Essam]** Team leader
-- **[Marwa Magdy]**  
-- **[Sherine Morsy]**  
-- **[Yara Amer]**  
+- **[Marwa Essam]** Team leader ui/ux designer 
+- **[Marwa Magdy]**  ui/ux designer 
+- **[Sherine Morsy]**  ui/ux designer 
+- **[Yara Amer]**  ui/ux designer 
 
 ---
 
 ##  Instructor
 **[Eman AbdelLatif]**   
 fig jam link : https://www.figma.com/board/H11eDELoO1OnhYCKY8VTJO/project-%D8%AD%D9%8F%D9%84%D9%92%D9%85?t=YWJx7QUTv4yHAaah-6
+figma link:https://www.figma.com/design/ze57gnaqvjkwVLpIdjUQhz/7lm-%D8%AD%D9%8F%D9%84%D9%92%D9%85?node-id=12-3&p=f&t=dwKcLIwIHcsDwDi5-0 
   
          
