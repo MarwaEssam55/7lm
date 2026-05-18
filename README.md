@@ -13,7 +13,6 @@ Because motherhood begins with you, the app and website were  created to care fo
 - **[Marwa Essam]** Team leader ui/ux designer 
 - **[Marwa Magdy]**  ui/ux designer 
 - **[Sherine Morsy]**  ui/ux designer 
-- **[Yara Amer]**  ui/ux designer 
 
 ---
 
@@ -22,4 +21,4 @@ Because motherhood begins with you, the app and website were  created to care fo
 fig jam link : https://www.figma.com/board/H11eDELoO1OnhYCKY8VTJO/project-%D8%AD%D9%8F%D9%84%D9%92%D9%85?t=YWJx7QUTv4yHAaah-6
  
  figma link:https://www.figma.com/design/ze57gnaqvjkwVLpIdjUQhz/7lm-%D8%AD%D9%8F%D9%84%D9%92%D9%85?node-id=12-3&p=f&t=dwKcLIwIHcsDwDi5-0 
-  case study drive link :  https://drive.google.com/file/d/1Qt-a8TOhRuIz-xDDP-b3qt_hWwDManoq/view?usp=drive_link  
+  #case study drive link :  https://drive.google.com/file/d/1Qt-a8TOhRuIz-xDDP-b3qt_hWwDManoq/view?usp=drive_link  
